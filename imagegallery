@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+div{
+display:inline-block;
+float:left;
+margin:5px;
+border:1px solid #ccc;
+clear:right;
+}
+
+p{text-align:center;}
+
+img{
+max-width:100px;
+max-height:100px;}
+
+img:hover {border:3px solid green;}
+</style>
+</head>
+<body>
+
+<div> <img src="https://www.w3schools.com/css/img_5terre.jpg">
+     <p> add a description of the image here</p> </div>
+<div> <img src="https://www.w3schools.com/css/img_forest.jpg">
+     <p> add a description of the image here</p> </div>
+<div> <img src="https://www.w3schools.com/css/img_lights.jpg">
+     <p> add a description of the image here</p> </div>
+<div> <img src="https://www.w3schools.com/css/img_mountains.jpg">
+     <p> add a description of the image here</p> </div>
+
+
+</body>
+</html>
+
+
